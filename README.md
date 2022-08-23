@@ -2,6 +2,8 @@
 
 ## A lightweight and streamlined application for creating a customisable MNIST dataset
 
+Clone down the repo locally and run <code>MNIST_maker.py</code>
+
 **Customisble dataset settings**
 
 - Image size
