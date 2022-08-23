@@ -2,7 +2,7 @@
 
 ## A lightweight and streamlined application for creating a customisable MNIST dataset
 
-**Customisble options**
+**Customisble dataset settings**
 
 - Image size
 - Image format
@@ -13,7 +13,14 @@
 
 ---
 
+**Settings interface**
+
+![im2](https://i.imgur.com/GyGIfn8.png)
+
+---
+
 **Requirements**
 
 - python 3.9.12
 - pillow 9.0.1 or newer
+
