@@ -15,7 +15,7 @@
 
 **Quick Setup**
 
-Clone down the repo locally and run <code>MNIST_maker.py</code>. Fill in settings and hit the  ***Save settings*** button to start drawing handwritten digits on the canvas. Images are saved in real time between each image and a CSV file with digit labels is created upon exiting the program.
+Clone down the repo locally and run <code>MNIST_maker.py</code>. Fill in settings and hit the  ***Save settings*** button to start drawing digits on the canvas. Images are saved in real time between each image and a CSV file with digit labels is created upon exiting the program.
 
 ---
 
