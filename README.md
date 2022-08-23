@@ -22,7 +22,7 @@ Clone down the repo locally and run <code>MNIST_maker.py</code>. Fill in setting
 **Requirements**
 
 - python 3.9.12
-- pillow 9.0.1 or newer
+- pillow 9.0.1 
 
 ---
 
