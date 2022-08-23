@@ -34,6 +34,8 @@ Clone down the repo locally and run <code>MNIST_maker.py</code>. Fill in setting
 
 **Canvas interface** 
 
+Digit to draw is shown above canvas and progress is shown below
+
 <img src="https://i.imgur.com/xF1LXyc.png" alt="drawing" width="400"/>
 
 **Canvas Keybinds**  
