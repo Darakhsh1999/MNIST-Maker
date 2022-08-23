@@ -2,8 +2,6 @@
 
 ## A lightweight and streamlined application for creating a customisable MNIST dataset
 
-Clone down the repo locally and run <code>MNIST_maker.py</code>
-
 **Customisble dataset settings**
 
 - Image size
@@ -18,6 +16,17 @@ Clone down the repo locally and run <code>MNIST_maker.py</code>
 **Settings interface**
 
 ![im2](https://i.imgur.com/GyGIfn8.png)
+
+---
+
+**Quick Setup**
+
+Clone down the repo locally and run <code>MNIST_maker.py</code>. Fill in settings and hit the  ***Save settings*** button to start drawing handwritten digits on the canvas. Images are saved in real time in the specified location
+
+**Canvas Keybinds**  
+- `S` saves the image
+- `R` resets the image 
+- `U` undos the last image
 
 ---
 
