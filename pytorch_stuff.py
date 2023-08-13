@@ -34,7 +34,8 @@ class CNN(nn.Module):
         x = torch.flatten(x, start_dim= 1, end_dim= -1)
         x = self.linear1(x)
         x = self.linear2(x)
-        x = self.soft_max(x)
+        if not self.training: # Logits when train (for BCE), probability when eval
+            x = self.soft_max(x)
         return x
     
 class CustomMNIST(Dataset):
